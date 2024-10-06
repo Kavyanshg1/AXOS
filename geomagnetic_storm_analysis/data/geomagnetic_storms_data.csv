@@ -1,0 +1,6 @@
+storm_id,start_time,kp_index,locations
+1,2024-05-02 15:00:00,6.67,"Alaska, USA: 64.8° N, 147.7° W; Northwestern Canada: 60.0° N, 120.0° W; Northern Europe: 60.0° N, 10.0° E"
+2,2024-05-10 15:00:00,9.0,"Northern Alaska, USA: 70.0° N, 150.0° W; Northern Canada: 65.0° N, 120.0° W; Northern Europe: 65.0° N, 10.0° E; Southern Australia: 40.0° S, 140.0° E; Southern New Zealand: 45.0° S, 170.0° E"
+3,2024-05-12 21:00:00,6.33,"Arctic Circle: 70.0° N, 0.0° E; Northern Scandinavia: 65.0° N, 20.0° E; Northern Russia: 60.0° N, 100.0° E"
+4,2024-05-16 06:00:00,6.0,"Western Alaska, USA: 60.0° N, 160.0° W; Northwestern Canada: 60.0° N, 120.0° W; Northern Europe: 60.0° N, 10.0° E"
+5,2024-05-17 18:00:00,6.0,"Northern Alaska, USA: 70.0° N, 150.0° W; Northern Canada: 65.0° N, 120.0° W; Northern Europe: 65.0° N, 10.0° E"
